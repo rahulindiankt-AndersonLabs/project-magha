@@ -25,4 +25,4 @@ All papers in this repository are released under [CC-BY-4.0](https://creativecom
 
 ## Contact
 
-Rahul Chouhan — rahul.incubation.cell@gmail.com
+Rahul Chouhan — rahulindiankt@gmail.com
